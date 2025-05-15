@@ -1,0 +1,44 @@
+[
+  {
+    "id": 1,
+    "date": "15.10.22",
+    "leadId": 1,
+    "objectId": 5811,
+    "leadObjectType": "Buyer",
+    "status": "Order placed",
+    "broker": "Prime",
+    "company": "Dominik Eisenhardt",
+    "name": "Lina Schroeder",
+    "phone": "+491979254253",
+    "subscription": "premium",
+    "act": "26.12.23"
+  },
+  {
+    "id": 2,
+    "date": "21.11.23",
+    "leadId": 2,
+    "objectId": 5033,
+    "leadObjectType": "Salesperson",
+    "status": "waiting",
+    "broker": "Prime",
+    "company": "Sophie Schneider GmbH",
+    "name": "n/a Junker",
+    "phone": "+491363122012",
+    "subscription": "prepaid",
+    "act": "06.07.22"
+  },
+  {
+    "id": 3,
+    "date": "21.11.23",
+    "leadId": 20,
+    "objectId": 4685,
+    "leadObjectType": "Salesperson",
+    "status": "Order placed",
+    "broker": "Prime",
+    "company": "Sophie Schneider GmbH",
+    "name": "Mathias Schiewer",
+    "phone": "+491237444844",
+    "subscription": "premium",
+    "act": "04.12.22"
+  }
+]
